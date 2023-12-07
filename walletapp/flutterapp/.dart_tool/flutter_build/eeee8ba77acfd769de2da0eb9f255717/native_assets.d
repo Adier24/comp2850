@@ -1,0 +1,1 @@
+ C:\\Flutter.YT\\walletapp\\flutterapp\\.dart_tool\\flutter_build\\eeee8ba77acfd769de2da0eb9f255717\\native_assets.yaml: 

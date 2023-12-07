@@ -1,0 +1,12 @@
+com.example.news_apikey.app-debug-0 C:\Flutter.YT\News\news_apikey\android\app\src\debug\res
+com.example.news_apikey.app-main-1 C:\Flutter.YT\News\news_apikey\android\app\src\main\res
+com.example.news_apikey.app-pngs-2 C:\Flutter.YT\News\news_apikey\build\app\generated\res\pngs\debug
+com.example.news_apikey.app-resValues-3 C:\Flutter.YT\News\news_apikey\build\app\generated\res\resValues\debug
+com.example.news_apikey.app-rs-4 C:\Flutter.YT\News\news_apikey\build\app\generated\res\rs\debug
+com.example.news_apikey.app-mergeDebugResources-5 C:\Flutter.YT\News\news_apikey\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.news_apikey.app-mergeDebugResources-6 C:\Flutter.YT\News\news_apikey\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.news_apikey.app-merged_res-7 C:\Flutter.YT\News\news_apikey\build\app\intermediates\merged_res\debug
+com.example.news_apikey.app-jetified-window-java-1.0.0-beta04-8 C:\Users\Adier Maldonado\.gradle\caches\transforms-3\0405998f84be17d5a270058e4d9efafb\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.news_apikey.app-jetified-window-1.0.0-beta04-9 C:\Users\Adier Maldonado\.gradle\caches\transforms-3\a0569c84da92e780ec0301345a5680b8\transformed\jetified-window-1.0.0-beta04\res
+com.example.news_apikey.app-core-1.6.0-10 C:\Users\Adier Maldonado\.gradle\caches\transforms-3\b9dacad0f35600dba90dc5abefc740a2\transformed\core-1.6.0\res
+com.example.news_apikey.app-jetified-annotation-experimental-1.1.0-11 C:\Users\Adier Maldonado\.gradle\caches\transforms-3\e2cc17ad14f3f9d5816369ddec614b98\transformed\jetified-annotation-experimental-1.1.0\res
